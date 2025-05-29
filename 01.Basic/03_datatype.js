@@ -16,14 +16,19 @@
 
 // console.log(typeof name);
 
-let score = null
 
-console.log(typeof score);
-console.log(typeof(score));
 
-let valueInNumber = Number(score)
+// let score = null
 
-console.log((valueInNumber));
+// console.log(typeof score);
+// console.log(typeof(score));
+
+// let valueInNumber = Number(score)
+
+// console.log((valueInNumber));
+
+
+
 
 // "33aaa" -> NAN
 // 212 -> 212
@@ -40,4 +45,25 @@ console.log((valueInNumber));
 
 
 // op  String
+
+
+// *************************Operatons ************************************
+
+// let value = 355
+// let negValue = -value;
+// console.log(negValue);
+// console.log(5+5);
+// console.log(5-5);
+// console.log(5*5);
+// console.log(5/5);
+// console.log(5**5);
+// console.log(5%5);
+
+
+// let Fname = "RAvi"
+// let Lname = "Patel"
+// let Finalname = Fname + Lname;
+// console.log(Finalname);
+
+
 
